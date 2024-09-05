@@ -1,13 +1,13 @@
 const contentLetterSrart_actived = "Hello em pé của anh nhóooo. Anh nà Panda thúi cụa em nah. Hí hí cóa cái nì anh nàm cho babi nah." //Lời mở đầu cho bức thư
-const mainContentLetter = "Công túa này hôm nay lại thêm một tuổi mới rồi. Tủi mới em pé hỏng cóa báo nữa nhóoooo. Happy Birthday Annie. Eooooo em nhắm. Mãi keoooo mãi mậnnnn " //Nội dung của bức thư
+const mainContentLetter = "Công túa này hôm nay lại thêm một tuổi mới rồi. Tủi mới em pé hỏng cóa báo nữa nhóoooo. Happy Birthday Annie. Eooooo em nhắm. Mãi keoooo mãi mậnnnn." //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
 let imgStart = document.querySelector(".myAI"); //Hình ảnh xuất hiện trong lời mở đầu của bức thư
-imgStart.src = "./img/cute-young-boy-kid-wearing-vest-and-hat-free-png.png";
+imgStart.src = "./img/cute-panda.png";
 
 // Gắn 1 link ảnh bất kì
 let imgLetter = document.querySelector(".img");
-imgLetter.src = "./img/b4bbdb54b7152338d7143cb444a77f09.png"; //Hình ảnh xuất hiện trong nội dung của bức thư sau khi bức thư được viết ra hết
+imgLetter.src = "./img/ava-panda.png"; //Hình ảnh xuất hiện trong nội dung của bức thư sau khi bức thư được viết ra hết
 
 const splitContentLetterSrart_actived = contentLetterSrart_actived.split("");
 
