@@ -1,4 +1,4 @@
-const contentLetterSrart_actived = "Hello bạn của em pé của anh nhóooo. Anh nà Panda thúi cụa em nah. Hí hí cóa cái nì anh nàm cho babi nah." //Lời mở đầu cho bức thư
+const contentLetterSrart_actived = "Hello em pé của anh nhóooo. Anh nà Panda thúi cụa em nah. Hí hí cóa cái nì anh nàm cho babi nah." //Lời mở đầu cho bức thư
 const mainContentLetter = "Công túa này hôm nay lại thêm một tuổi mới rồi. Tủi mới em pé hỏng cóa báo nữa nhóoooo. Happy Birthday Annie. Eooooo em nhắm. Mãi keoooo mãi mậnnnn " //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
